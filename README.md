@@ -7,5 +7,5 @@ In this work, I have improved the pipeline through performing hyperparameter tun
 The notebook shows the workflow of processing the data, training the model as well as provide recommendations of strain design to be experimented. 
 
 <p align="center">
-<img width="800"  src="https://user-images.githubusercontent.com/47986787/235125212-e4690a7b-8022-48ad-bdc4-0fb4519f5758.png">
+<img width="1000"  src="https://user-images.githubusercontent.com/47986787/235125212-e4690a7b-8022-48ad-bdc4-0fb4519f5758.png">
 </p>
